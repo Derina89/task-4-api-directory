@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "HTML & CSS Basics",
+    "category": "Frontend",
+    "description": "Learn the fundamentals of HTML and CSS for building responsive web pages."
+  },
+  {
+    "id": 2,
+    "name": "JavaScript Essentials",
+    "category": "Frontend",
+    "description": "Understand JavaScript fundamentals and make web pages interactive."
+  },
+  {
+    "id": 3,
+    "name": "React Development",
+    "category": "Frontend",
+    "description": "Build modern user interfaces using React components."
+  },
+  {
+    "id": 4,
+    "name": "Node.js Fundamentals",
+    "category": "Backend",
+    "description": "Learn server-side JavaScript and build backend applications."
+  },
+  {
+    "id": 5,
+    "name": "Express.js API",
+    "category": "Backend",
+    "description": "Create REST APIs using Node.js and Express."
+  },
+  {
+    "id": 6,
+    "name": "SQL & Databases",
+    "category": "Database",
+    "description": "Learn how to store, retrieve, and manage structured data."
+  },
+  {
+    "id": 7,
+    "name": "Git & GitHub",
+    "category": "Tools",
+    "description": "Learn version control and manage projects using Git and GitHub."
+  },
+  {
+    "id": 8,
+    "name": "API Testing",
+    "category": "Tools",
+    "description": "Test REST APIs and understand requests, responses, and status codes."
+  }
+]
